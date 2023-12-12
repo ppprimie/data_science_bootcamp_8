@@ -15,3 +15,5 @@ I learn a lot of stuff related to data science skills. This bootcampe has 10 spr
 - Python programmong
 - Essential Python for Data Analyst
 - Dashboard
+
+You can find me in linkedIn : put URL
